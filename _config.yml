@@ -26,8 +26,8 @@ author:
   avatar           : "profile.png"
   name             : "Pengfei Guo"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "I'm a individual researcher in Robotics and AI，who is attempt to find PhD position"
+  location         : "Shenzhen"
   employer         : "DMBot"
   uri              : # URL
   email            : "pengfei.guo2001@gmail.com" 
@@ -84,8 +84,8 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
+  notebooks:
+    title: 'Notebooks'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
