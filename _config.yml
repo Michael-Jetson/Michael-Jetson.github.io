@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "YPengfei Guo"
+title                    : "Pengfei Guo"
 title_separator          : "-"
 name                     : &name "YPengfei Guo"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,13 +24,13 @@ repository               : "Michael-Jetson.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Pengfei Guo"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "DMBot"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "pengfei.guo2001@gmail.com" 
 
   # Academic websites
   academia         : # URL
